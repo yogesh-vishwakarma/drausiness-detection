@@ -1,9 +1,4 @@
-1. to run 
+Steps  
 
-enter  command : 
-
-sudo bash comd.sh 
-
-2. to Quit 
-
-enter key q 
+To run enter  command  :  sudo bash comd.sh 
+To Quit  enter command :  enter key q 
